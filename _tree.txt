@@ -1,0 +1,18 @@
+my_shop
+	app
+		config
+			config.php
+	public
+		assets
+			css
+				bootstrap5
+					bootstrap.min.css
+			js
+				bootstrap5
+					bootstrap.bundle.min.js
+			media
+				favicon.ico
+				no_photo.webp
+.gitignore
+admin.php
+index.php
