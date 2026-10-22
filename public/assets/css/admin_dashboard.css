@@ -1,0 +1,19 @@
+/* my_shop/public/assets/css/admin_dashboard.css */
+
+body { 
+    font-family: monospace; 
+    background: #f4f6f9; 
+}
+
+.chat-area { 
+    height: 150px; 
+    overflow-y: auto; 
+    background: #fff; 
+    border: 1px solid #ccc; 
+    font-size: 12px; 
+}
+
+.online-list { 
+    font-size: 11px; 
+    background: #e9ecef; 
+}
