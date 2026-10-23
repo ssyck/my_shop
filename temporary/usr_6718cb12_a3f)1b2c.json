@@ -1,0 +1,11 @@
+{
+  "user_uuid": "usr_6718cb12_a3f01b2c",
+  "login": "courier_ivan",
+  "password": "courier_pass_99",
+  "name": "Иван Курьер",
+  "status": "active",
+  "flags": [
+    "dd",
+    "cl"
+  ]
+}
